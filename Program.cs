@@ -1,4 +1,5 @@
-﻿using MarsInvestigationProject;
+﻿using MarsInvestigationProject.Models;
+using MarsInvestigationProject.Models.Enums;
 
 internal class Program
 {

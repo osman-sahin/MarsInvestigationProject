@@ -1,4 +1,4 @@
-﻿namespace MarsInvestigationProject
+﻿namespace MarsInvestigationProject.Models.Enums
 {
     internal enum Route
     {

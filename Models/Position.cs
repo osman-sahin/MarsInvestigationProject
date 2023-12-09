@@ -1,4 +1,6 @@
-﻿namespace MarsInvestigationProject
+﻿using MarsInvestigationProject.Models.Enums;
+
+namespace MarsInvestigationProject.Models
 {
     internal class Position
     {
